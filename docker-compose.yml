@@ -1,0 +1,43 @@
+version: "3.8"
+
+services:
+ # Database Server
+    database:
+        image: mysql:latest
+        ports:
+            -   3306:3306
+        environment:
+            - MYSQL_ROOT_HOST=%
+            - MYSQL_DATABASE=bd_task
+            - MYSQL_USER=app_task
+            - MYSQL_PASSWORD=app_task
+            - MYSQL_ROOT_PASSWORD=app_task
+            - MYSQL_ALLOW_EMPTY_PASSWORD=true
+            - MYSQL_RANDOM_ROOT_PASSWORD=true
+        volumes:
+            - db-data:/var/lib/mysql
+        networks:
+            - app-network
+    myapp:
+        image: docker.io/bitnami/laravel:10
+        ports:
+        - '8000:8000'
+        environment:
+            - DB_HOST=database
+            - DB_PORT=3306
+            - DB_USERNAME=app_task
+            - DB_DATABASE=bd_task
+            - DB_PASSWORD=app_task
+        volumes:
+            - './touch:/app'
+        links:
+            - database    
+        depends_on:
+            - database
+        networks:
+            - app-network
+networks:
+  app-network:
+    driver: bridge
+volumes:
+    db-data: ~

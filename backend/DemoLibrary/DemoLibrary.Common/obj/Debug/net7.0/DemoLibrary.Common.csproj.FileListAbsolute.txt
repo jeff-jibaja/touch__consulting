@@ -1,0 +1,12 @@
+F:\2023\Touch\backend\DemoLibrary\DemoLibrary.Common\bin\Debug\net7.0\DemoLibrary.Common.deps.json
+F:\2023\Touch\backend\DemoLibrary\DemoLibrary.Common\bin\Debug\net7.0\DemoLibrary.Common.dll
+F:\2023\Touch\backend\DemoLibrary\DemoLibrary.Common\bin\Debug\net7.0\DemoLibrary.Common.pdb
+F:\2023\Touch\backend\DemoLibrary\DemoLibrary.Common\obj\Debug\net7.0\DemoLibrary.Common.csproj.AssemblyReference.cache
+F:\2023\Touch\backend\DemoLibrary\DemoLibrary.Common\obj\Debug\net7.0\DemoLibrary.Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\2023\Touch\backend\DemoLibrary\DemoLibrary.Common\obj\Debug\net7.0\DemoLibrary.Common.AssemblyInfoInputs.cache
+F:\2023\Touch\backend\DemoLibrary\DemoLibrary.Common\obj\Debug\net7.0\DemoLibrary.Common.AssemblyInfo.cs
+F:\2023\Touch\backend\DemoLibrary\DemoLibrary.Common\obj\Debug\net7.0\DemoLibrary.Common.csproj.CoreCompileInputs.cache
+F:\2023\Touch\backend\DemoLibrary\DemoLibrary.Common\obj\Debug\net7.0\DemoLibrary.Common.dll
+F:\2023\Touch\backend\DemoLibrary\DemoLibrary.Common\obj\Debug\net7.0\refint\DemoLibrary.Common.dll
+F:\2023\Touch\backend\DemoLibrary\DemoLibrary.Common\obj\Debug\net7.0\DemoLibrary.Common.pdb
+F:\2023\Touch\backend\DemoLibrary\DemoLibrary.Common\obj\Debug\net7.0\ref\DemoLibrary.Common.dll

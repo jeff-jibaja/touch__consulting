@@ -1,0 +1,17 @@
+F:\2023\Touch\backend\DemoLibrary\DemoLibrary.Application\bin\Debug\net7.0\DemoLibrary.Application.deps.json
+F:\2023\Touch\backend\DemoLibrary\DemoLibrary.Application\bin\Debug\net7.0\DemoLibrary.Application.dll
+F:\2023\Touch\backend\DemoLibrary\DemoLibrary.Application\bin\Debug\net7.0\DemoLibrary.Application.pdb
+F:\2023\Touch\backend\DemoLibrary\DemoLibrary.Application\bin\Debug\net7.0\DemoLibrary.Common.dll
+F:\2023\Touch\backend\DemoLibrary\DemoLibrary.Application\bin\Debug\net7.0\DemoLibrary.Domain.dll
+F:\2023\Touch\backend\DemoLibrary\DemoLibrary.Application\bin\Debug\net7.0\DemoLibrary.Common.pdb
+F:\2023\Touch\backend\DemoLibrary\DemoLibrary.Application\bin\Debug\net7.0\DemoLibrary.Domain.pdb
+F:\2023\Touch\backend\DemoLibrary\DemoLibrary.Application\obj\Debug\net7.0\DemoLibrary.Application.csproj.AssemblyReference.cache
+F:\2023\Touch\backend\DemoLibrary\DemoLibrary.Application\obj\Debug\net7.0\DemoLibrary.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\2023\Touch\backend\DemoLibrary\DemoLibrary.Application\obj\Debug\net7.0\DemoLibrary.Application.AssemblyInfoInputs.cache
+F:\2023\Touch\backend\DemoLibrary\DemoLibrary.Application\obj\Debug\net7.0\DemoLibrary.Application.AssemblyInfo.cs
+F:\2023\Touch\backend\DemoLibrary\DemoLibrary.Application\obj\Debug\net7.0\DemoLibrary.Application.csproj.CoreCompileInputs.cache
+F:\2023\Touch\backend\DemoLibrary\DemoLibrary.Application\obj\Debug\net7.0\DemoLibrary.Application.csproj.CopyComplete
+F:\2023\Touch\backend\DemoLibrary\DemoLibrary.Application\obj\Debug\net7.0\DemoLibrary.Application.dll
+F:\2023\Touch\backend\DemoLibrary\DemoLibrary.Application\obj\Debug\net7.0\refint\DemoLibrary.Application.dll
+F:\2023\Touch\backend\DemoLibrary\DemoLibrary.Application\obj\Debug\net7.0\DemoLibrary.Application.pdb
+F:\2023\Touch\backend\DemoLibrary\DemoLibrary.Application\obj\Debug\net7.0\ref\DemoLibrary.Application.dll
